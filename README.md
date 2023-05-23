@@ -1,5 +1,5 @@
 # DownloadTool
-Lista de programas que descarga: /n
+Lista de programas que descarga: 
 Actualiza el sistema operativo
 Descarga:
 git
